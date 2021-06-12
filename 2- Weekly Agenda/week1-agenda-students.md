@@ -54,7 +54,7 @@ Problems, interview questions and related course topics within the week or sprin
 
 **1. Please click the link below and discuss/solve the Python questions in the notebook.**
 
-- [Notebook](https://github.com/clarusway/Clarusway-DS-Teamleads-08-21-/blob/main/2-%20Weekly%20Agenda/week_1_students.ipynb)
+- [Notebook](https://github.com/clarusway/Clarusway-DS-Students-08-21/blob/main/2-%20Weekly%20Agenda/week_1_students.ipynb)
 
 <br>
 
