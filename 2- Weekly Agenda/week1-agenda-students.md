@@ -94,20 +94,8 @@ Problems, interview questions and related course topics within the week or sprin
 
 
 
-- [Data Analysis with Python
-Project - 1 (Police Stops in Traffic)](https://github.com/clarusway/clarusway-ds-students-7-21/tree/main/1-%20Projects/01-EU_DS_DAPy_M1-(TrafficPoliceStops)) <br>
+- [Assignment-1 (Data Types, Level of Measurements](https://lms.clarusway.com/mod/assign/view.php?id=10040) <br>
 
-You will practice fixing data types, handling missing values, and dropping columns and rows while learning about the Stanford Open Policing Project dataset.
-
-You'll be analyzing a dataset of traffic stops in Rhode Island that was collected by the Stanford Open Policing Project.
-
-You'll find the instructions and information that you need in Jupyter Notebook files. There are also two datasets provided that you will use.
-
-There are four chapters (each contains different Data Analysis instructions) that you need to complete.
-
-Some parts of the chapter third require Data Visualization codes. These parts can be completed after Data Visualization with Python lessons.
-
-Clone/Download these files and work on your local, then push your solutions (.ipynb files) up to your GitHub repository.
 <br>
 
 
