@@ -58,7 +58,7 @@ The main and only aim of this part is to develop your skills that you need durin
 
 **1. Discuss/solve the Python questions below**
 
-- [Notebook](https://github.com/clarusway/Clarusway-DS-Teamleads-08-21-/blob/main/2-%20Weekly%20Agenda/week-2-teamlead-solution.ipynb)
+- [Notebook](https://github.com/clarusway/Clarusway-DS-Students-08-21/blob/main/2-%20Weekly%20Agenda/week-2-student.ipynb)
 
 **2. Convert and merge json files into one Pandas.Dataframe**
 
