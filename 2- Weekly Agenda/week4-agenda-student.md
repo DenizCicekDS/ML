@@ -76,9 +76,7 @@ The main and only aim of this part is to develop your skills that you need durin
 
 
 
-**4
-
-. What is KDE?**
+**4. What is KDE?**
 <br>
 
 <hr>
