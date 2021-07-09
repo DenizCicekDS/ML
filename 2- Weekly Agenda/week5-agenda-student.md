@@ -57,6 +57,7 @@ The main and only aim of this part is to develop your skills that you need durin
 <hr>
 
 **1. Make sure you have installed SSMS and can work with the Bike Store Database without any problems.**
+                  
 **2. Get to know the Bike Store Database.**
 
 **Please work on the exercises below. (Make your own copy!)**
@@ -68,7 +69,7 @@ The main and only aim of this part is to develop your skills that you need durin
 <hr>
 
 **1. What is SQL? Why do we use it?**
-   <br>               
+                 
 **2. Why do we use LEFT JOINS?**
                   <br>
 **3. What do we want plot heat map?**
