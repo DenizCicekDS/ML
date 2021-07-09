@@ -61,7 +61,7 @@ The main and only aim of this part is to develop your skills that you need durin
 
 **Please work on the exercises below. (Make your own copy!)**
 
-[GSS Practice for Week-1st] (https://docs.google.com/spreadsheets/d/1AJMZ8sXZsw_dboHIirnzQNnV6DSjWUTq9EONh5Oj9q4/edit#gid=121431986)
+[GSS Practice for Week-1st](https://docs.google.com/spreadsheets/d/1AJMZ8sXZsw_dboHIirnzQNnV6DSjWUTq9EONh5Oj9q4/edit#gid=121431986)
 
 <br><br>
 <h3><strong>Interview Questions</strong></h4>
