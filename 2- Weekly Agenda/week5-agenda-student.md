@@ -69,11 +69,11 @@ The main and only aim of this part is to develop your skills that you need durin
 <hr>
 
 **1. What is SQL? Why do we use it?**
-                 
+
 **2. Why do we use LEFT JOINS?**
-                  <br>
+ 
 **3. What do we want plot heat map?**
-                  <br>
+
 **4. What is Violin Plots?**
 <br>
 
