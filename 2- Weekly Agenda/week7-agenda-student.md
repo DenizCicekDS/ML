@@ -55,7 +55,9 @@ The main and only aim of this part is to develop your skills that you need durin
 
 <h3><strong>Questions & Problems Related to Course Topics</strong></h4>
 <hr>
-
+USE BIKE STORE DB
+<br>
+<br>
 **1. Find the customers who placed at least two orders per year.**
 
 **2. Find the total amount of each order which are placed in 2018. Then categorize them according to limits stated below.(You can use case when statements here)**
@@ -80,6 +82,17 @@ The main and only aim of this part is to develop your skills that you need durin
 **7. In how many ways, a group of 3 boys and 2 girls can be formed out of a total of 5 boys and 5 girls?**
 
 **8.A woman has 6 blouses, 4 skirts, and 5 pairs of shoes. How many different outfits consisting of a blouse, a skirt, and a pair of shoes can she wear?**
+
+**9. Serena Williams won the 2010 Wimbledon Ladies’ Singles Championship. For the seven matches she played in the tournament, her total number of first serves was 379, total number of good first serves was 256, and total number of double faults was 15.**
+
+<i>a. Find the probability that her first serve is good.
+
+b. Find the conditional probability of double faulting, given that her first serve resulted in a fault.
+
+c. On what percentage of her service points does she double fault?</i>
+
+**10. Suppose that in the world exist a very rare disease. The chance for anyone to have this disease is 0.1%. You want to know whether you are infected so you go take a test, and the test results come positive. The accuracy of the test is 99%, meaning that 99% of the people who have the disease will test positive, and 99% of the people who do not have the disease will test negative. What is the chance that you are actually infected? <i>.......Bayes Theory</i>.....**
+
 <br><br>
 <h3><strong>Interview Questions</strong></h4>
 <hr>
