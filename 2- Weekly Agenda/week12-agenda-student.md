@@ -1,4 +1,4 @@
-<h1><strong><span style="color: #77C8D5;">Week-12 (September 20th-September 27th)</strong></span>
+<h1><strong><span style="color: #77C8D5;">Week-12 (September 20th-27th)</strong></span>
 
 ![logo](ds_agenda_logo.png)
 
